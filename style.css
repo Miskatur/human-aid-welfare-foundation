@@ -23,9 +23,6 @@ body {
     text-align: center;
     width: 600px;
     height: 400px;
-
-
-
 }
 
 .header-text {
@@ -58,4 +55,62 @@ body {
     font-weight: 500;
     text-decoration: none;
 
+}
+
+/*Donation Section*/
+
+.donation-section {
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 10px;
+}
+
+.donation h1 {
+    margin-top: 100px;
+    font-size: 50px;
+    color: orange;
+
+}
+
+.donation p {
+    font-size: 20px;
+    margin-top: -30px;
+}
+
+.amount-value {
+    display: flex;
+    text-align: center;
+    height: 150px;
+    font-size: 20px;
+    padding-left: 5%;
+    padding-right: 5%;
+    margin-left: 20%;
+    margin-right: 20%;
+    background-color: rgba(128, 128, 128, 0.048);
+}
+
+.amount {
+    text-align: center;
+    margin-left: 6%;
+    margin-right: 5%;
+    padding-top: 3%;
+}
+
+.box {
+    border: 2px solid red;
+    width: 130%;
+    height: 125px;
+    background-color: rgba(165, 152, 154, 0.092);
+}
+
+.number {
+    border: 0;
+    border-bottom: 1px solid rgba(128, 128, 128, 0.366);
+    margin-top: 20px;
+    margin-bottom: 20px;
+    width: 700px;
+    height: 100px;
+    text-align: center;
+    font-size: 20px;
+    border-radius: 10px;
 }
