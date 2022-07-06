@@ -114,3 +114,63 @@ body {
     font-size: 20px;
     border-radius: 10px;
 }
+
+/*Donation Plan started*/
+
+.our-donation-section {
+    margin-top: 100px;
+}
+
+
+
+.donate-plan {
+    display: flex;
+    margin-bottom: 120px;
+    padding: 5px 30px;
+    margin: 10px;
+}
+
+.donation-plan-text h1 {
+    font-size: 60px;
+    font-weight: 700;
+    color: orange;
+
+
+}
+
+.donation-plan-text p {
+    font-size: 16px;
+    color: rgba(128, 128, 128, 0.856);
+    margin-top: -30px;
+}
+
+.donation-plan-text {
+
+    text-align: center;
+}
+
+.donate-icon {
+    margin: 3% -3% 3% 8%;
+    margin-right: ;
+    width: 330px;
+    height: 280px;
+    padding-left: 1%;
+    padding-top: 2%;
+}
+
+.donate-icon h3 {
+    font-size: 25px;
+
+}
+
+#food {
+    background-color: #4F9DA61A;
+}
+
+#shelter {
+    background-color: #FF59591A;
+}
+
+#education {
+    background-color: #FFF4D6;
+}
