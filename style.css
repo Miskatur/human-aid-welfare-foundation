@@ -67,7 +67,8 @@ body {
 
 .donation h1 {
     margin-top: 100px;
-    font-size: 50px;
+    font-size: 60px;
+    font-weight: 600;
     color: orange;
 
 }
@@ -98,8 +99,11 @@ body {
 
 .box {
     border: 2px solid red;
-    width: 130%;
-    height: 125px;
+    margin-left: 20px;
+    margin-right: 20px;
+    width: 200px;
+    height: 120px;
+    border-radius: 5px;
     background-color: rgba(165, 152, 154, 0.092);
 }
 
@@ -132,7 +136,7 @@ body {
 
 .donation-plan-text h1 {
     font-size: 60px;
-    font-weight: 700;
+    font-weight: 600;
     color: orange;
 
 
