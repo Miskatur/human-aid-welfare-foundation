@@ -130,7 +130,7 @@ body {
 /*Donation Plan started*/
 
 .our-donation-section {
-    margin-top: 100px;
+    margin-top: 150px;
 }
 
 
@@ -163,7 +163,6 @@ body {
 
 .donate-icon {
     margin: 3% -3% 3% 8%;
-    margin-right: ;
     width: 330px;
     height: 280px;
     padding-left: 1%;
@@ -233,3 +232,47 @@ body {
 }
 
 /*Important of Charity ended*/
+
+/*Email Section Started*/
+.updates {
+    text-align: center;
+}
+
+.update-text h2 {
+    font-size: 30px;
+}
+
+.update-text p {
+    font-size: 16px;
+    margin-top: -15px;
+    color: grey;
+}
+
+.email-section {
+    background-color: #FFEEEE;
+    width: 600px;
+    height: 130px;
+    margin: 0 auto;
+}
+
+input[type=email] {
+    width: 300px;
+    padding: 10px;
+    margin: 50px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+}
+
+.button {
+    background-color: #FF5959;
+    border: none;
+    color: white;
+    padding: 10px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+
+/*Email Section Ended*/
